@@ -6,7 +6,6 @@
             "command": "/usr/bin/clang++",
             "args": [
                 "-fcolor-diagnostics",
-                "-fansi-escape-codes",
                 "-g",
                 "${file}",
                 "-o",
