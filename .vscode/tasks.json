@@ -8,9 +8,11 @@
                 "-std=c++11",
                 "-fcolor-diagnostics",
                 "-O2",
-                "-Wall",
-                // "-Weverything",
+                // "-g",
                 "-pedantic-errors",
+                "-Wsign-conversion",
+                "-Wall",
+                "-Wextra",
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
