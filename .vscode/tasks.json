@@ -8,7 +8,7 @@
                 "-std=c++11",
                 "-fcolor-diagnostics",
                 "-O2",
-                // "-g",
+                "-g",
                 "-pedantic-errors",
                 "-Wsign-conversion",
                 "-Wall",
