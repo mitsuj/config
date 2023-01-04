@@ -10,6 +10,7 @@
                 "-O2",
                 "-Wall",
                 // "-Weverything",
+                "-pedantic-errors",
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
