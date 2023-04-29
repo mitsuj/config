@@ -1,7 +1,3 @@
-//DOWNLOAD: 'Fira Code'
-//EXTENSIONS:-
-//REQUIRED --> 'Github Theme', 'Material Icon Theme', 'Material Product Icons'
-//C/C++ --> 'clangd'
 {
     "[jsonc]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
